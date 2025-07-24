@@ -1,5 +1,7 @@
 #include "myfont.h"
 
+#include <cstdlib>
+
 FontItem* available_chars = nullptr;
 int char_count = 0;
 
