@@ -3,7 +3,7 @@
 #include <stdint.h>
 
 #define FONT_BITMAP_WIDTH 1024
-#define FONT_BITMAP_HEIGHT 50
+#define FONT_BITMAP_HEIGHT 49
 
 typedef struct {
   uint16_t unicode;
